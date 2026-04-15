@@ -1,6 +1,6 @@
 # Hi, I'm Paws. :3
 
-> **Cyber-Security Enthusiast | Linux Poweruser | High-Speed Typist**
+> **Cyber-Security Enthusiast | Linux User | Speed Typist**
 > "I'm here to learn, optimize, and secure systems while staying true to myself." ^w^
 
 ---
