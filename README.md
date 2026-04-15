@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Paws. :3
 
-<!--
-**0xPaws/0xPaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Cyber-Security Enthusiast | Linux Poweruser | High-Speed Typist**
+> "I'm here to learn, optimize, and secure systems while staying true to myself." ^w^
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Arsenal
+- **OS:** Arch Linux (Daily Driver)
+- **Speed:** 192 WPM (Monkeytype Enthusiast)
+- **Focus:** SOC Analysis, Ethical Hacking, System Hardening
+- **Currently Learning:** ISC² Certified in Cybersecurity, Network Protocols
+
+---
+
+## 📈 My Journey (WDIDT)
+I believe in **transparency** and **continuous growth**. My goal is to break out of my current situation and become a top-tier technical expert. I don't just use tools; I want to understand the "why" and "how" behind them.
+
+- **ILT (I Learned Today):** Daily logs of my technical progress.
+- **LX (Linux):** My dotfiles, fixes, and hardware optimizations.
+- **BSR (Basic Security Rules):** Making the digital world a bit safer, one rule at a time.
+
+---
+
+## 🎮 Competitive Mindset
+I thrive on competition and data-driven improvement.
+- **Competitive Games:** Analyzing mistakes and Improving.
+- **Rankings:** I don't just play; I grind until I reach the top % of the leaderboard.
+
+---
+
+## 📬 Connectivity
+- **Communication:** I prefer digital communication (Discord/GitHub/Mail). 
+- **Style:** I value authenticity. If you're looking for a "suit and tie" person, I'm probably not the one. If you're looking for raw technical drive and honesty, let's talk.
+
+---
+
+  <br>
+  <i>"Stay curious. Always improve." :3</i>
+</p>
