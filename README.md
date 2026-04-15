@@ -16,10 +16,6 @@
 ## 📈 My Journey
 I believe in **transparency** and **continuous growth**. My goal is to break out of my current situation and become good at what I love.  I don't just use tools. I want to understand the "why" and "how" behind them.
 
-- **ILT (I Learned Today):** Daily logs of my technical progress.
-- **LX (Linux):** My dotfiles, fixes, and hardware optimizations.
-- **BSR (Basic Security Rules):** Making the digital world a bit safer, one rule at a time.
-
 ---
 
 ## 🎮 Competitive Mindset
