@@ -35,3 +35,8 @@ I thrive on competition and data-driven improvement.
   <br>
   <i>"Stay curious. Always improve." :3</i>
 </p>
+
+
+
+## 📬 Note
+Taking a break, mental health and other stuff, has a higher priority
